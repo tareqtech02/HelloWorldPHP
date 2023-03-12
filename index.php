@@ -24,9 +24,9 @@
             echo "Hello, my name is $myName!";
 		<br>
 			<br>
-			echo "Welcome in $course"
+			echo "Welcome in $course";
 
-			echo "our PHP page is works"
+			echo "our PHP page is works";
         ?>
     </main>
     <footer>
