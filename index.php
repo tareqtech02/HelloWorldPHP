@@ -20,10 +20,13 @@
         <p>Here's an example of some PHP code:</p>
         <?php
             $myName = "Tareq";
-            $course = "DevOps"
+            $course = "DevOps";
             echo "Hello, my name is $myName!";
+		<br>
+			<br>
+			echo "Welcome in $course"
 
-            echo "Welcome in $course"
+			echo "our PHP page is works"
         ?>
     </main>
     <footer>
